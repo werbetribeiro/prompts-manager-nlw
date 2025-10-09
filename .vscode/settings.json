@@ -22,5 +22,8 @@
   "zenMode.showTabs": "single",
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
-  "editor.inlineSuggest.suppressSuggestions": true
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  }
 }
