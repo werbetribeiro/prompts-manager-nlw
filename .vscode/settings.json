@@ -25,5 +25,8 @@
   "editor.inlineSuggest.suppressSuggestions": true,
   "[css]": {
     "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
   }
 }
